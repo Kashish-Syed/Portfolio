@@ -1,1 +1,1 @@
-This is Kashish's Portfolio
+This is Kashish's Portfolio. This is the initial commit.
